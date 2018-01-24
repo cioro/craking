@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cracking.iml" filepath="$PROJECT_DIR$/.idea/modules/cracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cracking_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cracking_main.iml" group="cracking" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cracking_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cracking_test.iml" group="cracking" />
+    </modules>
+  </component>
+</project>
